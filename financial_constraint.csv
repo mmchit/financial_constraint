@@ -1,0 +1,924 @@
+﻿financial_constraint,female_ownership,established_year,manager_experience,employees,sector
+Moderate obstacle,0,2002,25,75,Manufacturing
+No obstacle,50,1944,30,80,Manufacturing
+No obstacle,0,1990,10,50,Manufacturing
+No obstacle,30,2013,36,18,Manufacture
+No obstacle,0,2019,5,8,Retail services
+Minor obstacle,0,2021,31,13,Manufacturing
+No obstacle,0,1996,27,8,Other services
+Minor obstacle,100,2019,5,5,Retail services
+Moderate obstacle,0,1981,42,1100,Retail services
+Moderate obstacle,100,1995,20,6,Manufacturing
+Minor obstacle,0,2008,16,60,Manufacturing
+No obstacle,0,1986,30,8,Manufacturing
+Minor obstacle,0,2006,20,8,Retail services
+No obstacle,80,1991,33,35,Manufacturing
+No obstacle,0,1990,1,6,Manufacturing
+No obstacle,10,2003,10,180,Manufacturing
+Major obstacle,0,1981,33,200,Manufacturing
+Minor obstacle,0,2019,5,6,Manufacturing
+Moderate obstacle,0,2020,6,5,Other services
+No obstacle,20,2003,10,130,Manufacturing
+Minor obstacle,100,1968,45,30,Manufacturing
+Moderate obstacle,0,2005,19,120,Manufacturing
+No obstacle,100,1977,48,5,Manufacturing
+Minor obstacle,100,2017,7,12,Retail services
+No obstacle,100,2014,15,7,Manufacturing
+No obstacle,100,2006,13,5,Manufacturing
+No obstacle,100,1987,20,7,Other services
+Moderate obstacle,100,2011,10,18,Manufacturing
+Minor obstacle,50,1979,45,60,Manufacturing
+Major obstacle,100,1998,26,6,Manufacturing
+Minor obstacle,50,1979,45,60,Manufacture
+Minor obstacle,0,2000,,16,Manufacturing
+Major obstacle,0,1990,34,31,Manufacturing
+No obstacle,20,2012,11,60,Manufacturing
+Minor obstacle,90,2017,,113,Manufacturing
+Minor obstacle,0,1993,20,150,Manufacturing
+Minor obstacle,0,1992,18,120,Manufacturing
+Moderate obstacle,100,2019,5,10,Retail services
+No obstacle,100,1965,6,45,Manufacturing
+Minor obstacle,0,1984,40,70,Manufacturing
+No obstacle,100,2012,12,5,Other services
+No obstacle,100,2011,,50,Manufacturing
+No obstacle,20,1995,10,51,Manufacturing
+No obstacle,0,1990,11,45,Manufacturing
+No obstacle,33,1994,30,8,Manufacturing
+No obstacle,10,2000,40,130,Manufacturing
+Minor obstacle,0,1992,30,10,Manufacturing
+No obstacle,100,2021,3,7,Manufacturing
+No obstacle,0,1978,45,130,Manufacturing
+Moderate obstacle,0,1992,32,24,Manufacture
+Minor obstacle,0,1990,33,30,Other services
+No obstacle,20,1999,5,70,Other services
+Minor obstacle,0,1998,26,8,Other services
+Major obstacle,0,1998,50,60,Manufacturing
+No obstacle,0,1990,5,17,Manufacturing
+No obstacle,29,2004,20,10,Manufacturing
+Moderate obstacle,0,1977,35,121,Manufacturing
+Minor obstacle,0,1995,10,30,Manufacturing
+No obstacle,15,2005,30,60,Manufacturing
+No obstacle,20,1994,39,150,Manufacturing
+Moderate obstacle,100,2014,9,20,Manufacturing
+Moderate obstacle,65,1999,25,20,Manufacturing
+Minor obstacle,0,2003,20,18,Manufacturing
+No obstacle,50,1979,25,19,Manufacturing
+Minor obstacle,0,1988,25,186,Manufacturing
+No obstacle,50,1993,12,50,Manufacturing
+No obstacle,0,1970,15,66,Manufacturing
+No obstacle,30,1994,30,180,Manufacturing
+Minor obstacle,80,1988,25,28,Manufacturing
+No obstacle,100,2004,14,94,Manufacturing
+No obstacle,60,1996,28,7,Manufacturing
+Minor obstacle,30,1980,2,20,Manufacturing
+No obstacle,0,2005,19,25,Manufacturing
+No obstacle,50,2007,,60,Manufacturing
+No obstacle,0,2001,20,125,Manufacturing
+Minor obstacle,0,1955,30,6,Manufacturing
+No obstacle,0,2022,10,25,Manufacturing
+No obstacle,0,1999,25,100,Manufacturing
+Minor obstacle,50,1987,25,250,Manufacturing
+Major obstacle,0,2011,10,52,Manufacturing
+No obstacle,40,1975,63,44,Manufacturing
+No obstacle,50,1991,33,15,Manufacturing
+No obstacle,0,1997,17,120,Manufacturing
+No obstacle,3,1990,34,12,Manufacturing
+Minor obstacle,60,1998,20,26,Manufacturing
+Moderate obstacle,0,2011,30,135,Manufacturing
+No obstacle,1,2007,14,105,Manufacturing
+No obstacle,0,1990,34,28,Manufacturing
+No obstacle,0,1997,27,28,Manufacturing
+No obstacle,5,2010,20,65,Manufacturing
+Major obstacle,100,1992,15,16,Manufacturing
+No obstacle,0,2007,15,36,Manufacturing
+Minor,0,1979,40,30,Manufacturing
+Major obstacle,0,2001,30,85,Manufacturing
+No obstacle,0,1990,15,31,Manufacturing
+No obstacle,20,1995,28,18,Other services
+No obstacle,40,2007,7,88,Manufacturing
+Minor obstacle,0,2003,,25,Other services
+No obstacle,40,2007,7,88,Manufacturing
+No obstacle,30,2000,30,15,Manufacturing
+No obstacle,25,1983,25,31,Manufacturing
+Moderate obstacle,20,2000,33,74,Manufacturing
+No obstacle,0,2004,10,40,Manufacturing
+No obstacle,0,1996,20,13,Manufacturing
+No obstacle,0,1978,15,60,Manufacturing
+Minor obstacle,0,1989,30,106,Manufacturing
+Major obstacle,0,2005,14,62,Manufacturing
+Minor obstacle,15,1995,25,230,Manufacturing
+Minor obstacle,0,1993,25,93,Other services
+No obstacle,0,2004,20,26,Manufacturing
+Moderate obstacle,0,2006,,38,Other services
+Minor obstacle,30,1967,25,99,Manufacturing
+No obstacle,0,1969,15,6,Manufacturing
+No obstacle,20,1990,20,40,Manufacturing
+Minor obstacle,0,2003,21,50,Manufacturing
+No obstacle,100,1978,46,50,Retail services
+Minor obstacle,100,2006,1,5,Retail services
+No obstacle,50,1994,25,150,Other services
+Minor obstacle,30,1977,50,30,Retail services
+Minor obstacle,100,2020,20,8,Retail services
+Minor obstacle,0,2003,30,150,Retail services
+No obstacle,20,1994,,15,Retail services
+No obstacle,10,2004,20,17,Retail services
+No obstacle,0,2004,,70,Retail services
+Minor obstacle,0,1990,33,50,Other services
+Minor obstacle,0,2013,10,5,Retail
+No obstacle,0,2000,4,127,Retail services
+Minor obstacle,0,2003,30,59,Other services
+No obstacle,40,1968,38,23,Retail services
+No obstacle,0,,,5,Other services
+No obstacle,40,1994,30,8,Other services
+Major obstacle,15,1990,34,18,Manufacturing
+Minor obstacle,0,2016,8,22,Manufacturing
+No obstacle,0,2014,10,9,Manufacturing
+No obstacle,100,2018,6,7,Manufacturing
+No obstacle,100,2019,5,6,Other services
+Minor,0,1980,40,7,Other services
+Major,82,2010,20,24,Manufacturing
+Minor obstacle,0,2012,30,7,Manufacturing
+No obstacle,100,2015,9,5,Manufacturing
+No obstacle,100,2009,15,5,Manufacturing
+No obstacle,100,2012,13,7,Other services
+,60,1996,35,5,Other services
+No obstacle,100,2014,10,11,Other services
+Minor obstacle,100,2015,8,5,Other services
+No obstacle,0,2009,15,9,Other services
+Moderate obstacle,0,2014,10,6,Other services
+No obstacle,0,1998,26,10,Other services
+Minor obstacle,0,2019,20,15,Other services
+No obstacle,0,2000,7,30,Other services
+No obstacle,100,2001,15,10,Retail services
+No obstacle,15,2017,35,25,Retail services
+No obstacle,20,2014,16,8,Retail services
+Minor obstacle,0,2004,20,18,Other services
+No obstacle,0,2004,10,10,Other services
+No obstacle,0,2020,4,5,Other services
+No obstacle,0,2001,24,9,Retail services
+Major obstacle,100,2016,7,6,Retail services
+No obstacle,30,2021,15,48,Other services
+Minor obstacle,30,2013,17,5,Other services
+Major obstacle,100,2017,7,10,Other services
+No obstacle,0,2018,4,10,Other services
+No obstacle,100,1991,30,10,Other services
+Minor obstacle,20,1990,1,6,Retail services
+No obstacle,0,1997,50,80,Other services
+No obstacle,1,1973,30,7,Other services
+Moderate obstacle,20,2016,20,37,Other services
+Minor obstacle,0,2017,,5,Retail services
+No obstacle,100,1989,30,16,Other services
+Minor obstacle,30,1982,35,40,Other services
+No obstacle,100,1990,34,6,Other services
+No obstacle,0,2017,,13,Other services
+No obstacle,0,2000,25,7,Other services
+No obstacle,0,2005,10,15,Other services
+No obstacle,100,2015,14,7,Other services
+Minor obstacle,0,2012,12,8,Other services
+Moderate obstacle,50,2018,5,13,Other services
+Minor obstacle,50,2018,40,10,Retail services
+No obstacle,40,2004,25,6,Retail services
+No obstacle,80,2019,10,82,Other services
+Major obstacle,50,2006,13,11,Other services
+No obstacle,100,2021,2,21,Other services
+Minor obstacle,0,2020,4,5,Other services
+Moderate obstacle,50,2006,18,7,Retail services
+No obstacle,0,2008,15,17,Other services
+No obstacle,6,2018,17,6,Other services
+No obstacle,25,2018,24,2000,Other services
+No obstacle,50,1984,10,17,Other services
+No obstacle,0,2012,7,6,Other services
+Moderate obstacle,100,2018,,12,Other services
+Major,50,2018,4,8,Other services
+No obstacle,0,2010,14,11,Other services
+Minor obstacle,30,2019,,10,Retail services
+No obstacle,0,2020,,12,Retail services
+No obstacle,100,2020,4,5,Retail services
+Minor obstacle,0,2014,4,8,Retail services
+No obstacle,30,2015,8,11,Manufacturing
+No obstacle,100,2010,40,5,Retail services
+No obstacle,0,2020,5,5,Retail services
+No obstacle,0,1995,28,8,Retail services
+No obstacle,0,2008,1,5,Retail services
+Major obstacle,100,2020,5,5,Retail services
+No obstacle,5,2019,22,7,Retail services
+No obstacle,100,2011,12,5,Other services
+No obstacle,100,2008,16,5,Retail services
+No obstacle,0,2015,20,8,Retail services
+No obstacle,0,2018,6,6,Retail services
+No obstacle,10,2014,,7,Retail
+Moderate obstacle,0,2012,25,10,Retail services
+Minor obstacle,0,1990,,6,Retail services
+No obstacle,0,2014,20,28,Manufacturing
+No obstacle,40,2010,24,20,Manufacturing
+No obstacle,40,2009,14,24,Manufacturing
+No obstacle,30,1972,20,60,Manufacturing
+No obstacle,0,2007,35,15,Manufacturing
+Major obstacle,0,2013,18,22,Manufacturing
+No obstacle,0,1984,,40,Manufacturing
+No obstacle,0,1983,41,35,Manufacturing
+No obstacle,70,1991,32,50,Manufacturing
+No obstacle,0,1964,5,30,Manufacturing
+No obstacle,60,2009,1,35,Manufacturing
+No obstacle,0,1982,,22,Manufacturing
+Minor obstacle,0,2018,20,74,Other services
+Moderate obstacle,46,2015,30,32,Other services
+No obstacle,70,2018,5,40,Other services
+No obstacle,30,2011,12,40,Other services
+Major obstacle,40,1994,10,74,Other services
+Minor obstacle,50,2012,11,190,Other services
+No obstacle,0,2006,,14,Retail services
+No obstacle,30,2015,9,27,Manufacturing
+No obstacle,20,1994,,45,Manufacturing
+Minor obstacle,0,2015,3,28,Manufacturing
+No obstacle,30,2011,33,20,Other services
+No obstacle,60,2005,14,33,Other services
+Moderate obstacle,0,2019,5,12,Other services
+No obstacle,0,2015,15,72,Other services
+No obstacle,20,1999,25,13,Manufacturing
+Minor obstacle,0,2011,25,23,Other services
+Major obstacle,75,2013,31,11,Other services
+No obstacle,50,2014,35,39,Other services
+No obstacle,100,1995,,27,Other services
+No obstacle,0,1992,30,28,Other services
+No obstacle,20,1998,26,28,Other services
+No obstacle,0,2011,12,40,Other services
+No obstacle,65,1996,35,40,Other services
+No obstacle,20,2016,15,62,Retail services
+Moderate obstacle,0,2016,35,17,Retail services
+No obstacle,20,1979,,85,Retail services
+No obstacle,10,1994,15,70,Manufacturing
+No obstacle,50,1965,31,84,Manufacturing
+Minor obstacle,30,2011,13,100,Manufacturing
+No obstacle,0,1968,20,250,Manufacturing
+Minor obstacle,0,1989,35,102,Manufacturing
+Moderate obstacle,3,1954,10,166,Manufacturing
+No obstacle,50,2014,15,97,Manufacturing
+No obstacle,100,1935,10,54,Manufacturing
+Minor obstacle,50,2014,10,110,Other services
+No obstacle,0,1999,25,49,Other services
+No obstacle,50,1999,,80,Other services
+No obstacle,0,2008,15,150,Other services
+No obstacle,50,2012,5,60,Other services
+No obstacle,90,2021,20,55,Other services
+No obstacle,10,2011,30,180,Other services
+Minor obstacle,10,1974,30,130,Manufacturing
+No obstacle,0,1997,17,150,Manufacturing
+Minor obstacle,30,1981,40,90,Other services
+No obstacle,10,2012,20,250,Other services
+No obstacle,85,1900,30,130,Other services
+Major obstacle,0,2011,40,150,Other services
+No obstacle,0,1987,37,130,Other services
+No obstacle,20,1983,40,210,Other services
+No obstacle,0,2000,,180,Other services
+No obstacle,0,2019,10,84,Other services
+Major obstacle,20,1999,25,172,Other services
+No obstacle,80,2003,21,180,Other services
+No obstacle,0,1994,30,46,Other services
+Moderate obstacle,0,2000,10,200,Other services
+No obstacle,0,1989,15,200,Other services
+No obstacle,20,2000,,56,Other services
+Minor obstacle,20,2021,10,200,Retail services
+Minor obstacle,100,2013,10,5,Manufacturing
+Major obstacle,0,2019,30,6,Manufacturing
+No obstacle,0,2017,7,5,Manufacturing
+No obstacle,0,2005,20,6,Manufacturing
+Minor obstacle,0,1996,28,7,Manufacturing
+No obstacle,0,1965,40,6,Manufacturing
+Minor obstacle,0,2020,2,5,Manufacturing
+No obstacle,100,2010,14,5,Manufacturing
+No obstacle,80,2021,20,6,Manufacturing
+Major obstacle,0,1972,60,12,Manufacturing
+No obstacle,0,2007,10,5,Manufacturing
+Minor obstacle,0,1994,5,10,Manufacturing
+No obstacle,100,2018,5,5,Other services
+Minor obstacle,0,2015,9,7,Other services
+No obstacle,100,2021,3,5,Other services
+No obstacle,0,2016,15,5,Other services
+Minor obstacle,0,2012,1,6,Other services
+No obstacle,0,2001,33,6,Other services
+No obstacle,100,2019,7,24,Other services
+No obstacle,0,2016,8,6,Other services
+No obstacle,100,1998,21,13,Other services
+Minor obstacle,100,2009,4,9,Other services
+Minor obstacle,0,2014,10,55,Other services
+No obstacle,30,2016,8,6,Other services
+Minor obstacle,0,2010,30,5,Other services
+Moderate obstacle,0,2007,17,5,Manufacturing
+No obstacle,100,2018,5,5,Manufacturing
+Minor obstacle,100,2021,3,5,Other services
+Minor obstacle,100,2015,9,6,Retail services
+No obstacle,0,1999,24,9,Other services
+No obstacle,0,2020,7,5,Other services
+Minor obstacle,0,2014,10,6,Other services
+No obstacle,0,2007,17,8,Other services
+No obstacle,0,2018,10,25,Other services
+No obstacle,0,2006,18,12,Retail services
+No obstacle,0,2014,10,25,Other services
+Minor obstacle,100,2014,10,8,Other services
+No obstacle,0,2000,24,13,Other services
+No obstacle,0,2017,6,5,Retail services
+Moderate obstacle,0,2020,10,5,Retail services
+No obstacle,100,2020,4,5,Retail services
+Minor obstacle,0,2016,8,15,Other services
+No obstacle,30,2010,17,7,Other services
+Moderate obstacle,0,2004,20,6,Other services
+Minor obstacle,100,2006,15,8,Retail services
+Minor obstacle,0,2019,20,13,Other services
+No obstacle,0,2014,10,5,Other services
+No obstacle,0,2019,4,6,Other services
+No obstacle,100,2016,8,29,Other services
+No obstacle,0,2004,40,14,Other services
+No obstacle,0,1989,35,198,Other services
+Major obstacle,1,2012,12,7,Other services
+Minor obstacle,100,2020,3,30,Other services
+No obstacle,0,1990,35,30,Other services
+No obstacle,30,2007,27,5,Other services
+Major obstacle,0,2005,19,8,Other services
+No obstacle,0,2012,12,7,Other services
+No obstacle,100,2019,6,6,Other services
+No obstacle,100,2014,21,12,Retail services
+Minor obstacle,100,2020,4,5,Retail services
+No obstacle,0,2013,11,14,Retail services
+No obstacle,0,2003,20,5,Retail services
+Minor obstacle,0,2021,3,11,Other services
+No obstacle,100,2000,36,11,Other services
+Moderate obstacle,100,2019,6,15,Retail services
+No obstacle,100,2016,8,5,Retail services
+Moderate obstacle,0,2017,6,8,Retail services
+No obstacle,100,1999,25,6,Retail services
+No obstacle,0,2021,3,12,Retail services
+Minor obstacle,100,2014,10,5,Retail services
+Major obstacle,100,2015,9,5,Retail services
+No obstacle,0,1949,40,16,Other services
+Moderate obstacle,0,2003,20,7,Other services
+No obstacle,0,1986,38,8,Other services
+No obstacle,100,2006,24,11,Retail services
+Minor obstacle,50,2019,,13,Retail services
+No obstacle,0,2007,1,5,Retail services
+No obstacle,100,2003,21,12,Retail services
+Minor obstacle,100,2016,30,11,Retail services
+Major obstacle,100,1980,22,6,Retail services
+No obstacle,0,2023,1,6,Retail services
+Minor obstacle,0,2019,6,6,Retail services
+Moderate obstacle,100,2021,7,5,Retail services
+Minor obstacle,10,2014,10,20,Manufacturing
+Minor obstacle,2,1998,40,25,Manufacturing
+No obstacle,0,2016,8,37,Manufacturing
+Moderate obstacle,0,2020,10,30,Manufacturing
+No obstacle,0,2014,1,18,Manufacturing
+Major obstacle,0,1996,35,180,Manufacturing
+No obstacle,100,2010,14,20,Manufacturing
+No obstacle,100,2012,12,29,Manufacturing
+Minor obstacle,0,1994,12,54,Manufacturing
+No obstacle,100,2001,23,12,Manufacturing
+No obstacle,0,1991,33,30,Other services
+No obstacle,0,2007,17,40,Manufacturing
+No obstacle,0,2018,6,15,Manufacturing
+No obstacle,100,2002,22,30,Manufacturing
+No obstacle,60,1949,25,68,Manufacturing
+No obstacle,0,1986,38,24,Manufacturing
+No obstacle,100,1890,20,14,Manufacturing
+No obstacle,0,2016,10,24,Manufacturing
+No obstacle,0,2020,4,26,Other services
+No obstacle,0,2005,16,16,Other services
+Minor obstacle,37,2002,22,50,Other services
+Minor obstacle,0,2018,5,40,Other services
+Minor obstacle,100,2004,2,30,Other services
+No obstacle,0,1967,3,32,Other services
+Major obstacle,40,2018,6,48,Other services
+Major obstacle,0,1999,17,54,Other services
+No obstacle,0,2007,17,18,Other services
+No obstacle,0,2018,10,17,Other services
+Moderate obstacle,100,2018,6,25,Other services
+No obstacle,0,2018,6,60,Other services
+Minor obstacle,40,2003,34,66,Other services
+Minor obstacle,0,2001,33,200,Manufacturing
+Moderate obstacle,100,2006,14,9,Manufacturing
+No obstacle,50,1973,50,56,Manufacturing
+No obstacle,0,2002,29,80,Other services
+No obstacle,100,2009,15,40,Other services
+Moderate obstacle,0,2018,5,20,Other services
+Minor obstacle,0,1994,30,50,Other services
+No obstacle,0,1995,27,43,Other services
+Minor obstacle,5,2017,50,100,Other services
+Moderate obstacle,0,1991,40,10,Manufacturing
+No obstacle,0,2008,5,22,Other services
+Major obstacle,50,2019,18,121,Other services
+Minor obstacle,42,2018,20,22,Retail services
+Minor obstacle,0,2014,20,89,Retail services
+No obstacle,20,1995,40,134,Manufacturing
+Moderate obstacle,0,1985,38,40,Manufacturing
+Minor obstacle,30,2004,20,82,Manufacturing
+No obstacle,30,2008,16,100,Manufacturing
+Moderate obstacle,20,2015,30,24,Manufacturing
+No obstacle,20,1988,40,235,Manufacturing
+No obstacle,50,2003,21,60,Manufacturing
+Minor obstacle,75,1993,25,100,Manufacturing
+No obstacle,100,2013,11,146,Manufacturing
+Moderate obstacle,1,1999,17,39,Manufacturing
+Major obstacle,0,2017,7,100,Other services
+No obstacle,0,2007,10,25,Manufacturing
+No obstacle,0,1998,26,25,Other services
+No obstacle,0,2009,15,49,Other services
+No obstacle,100,2017,2,30,Retail services
+No obstacle,10,1967,30,88,Other services
+Minor obstacle,100,2000,5,61,Retail services
+No obstacle,40,2019,12,220,Retail services
+No obstacle,0,1996,18,8,Manufacturing
+Minor obstacle,0,2018,8,12,Manufacturing
+Moderate obstacle,50,2016,20,30,Manufacturing
+Moderate obstacle,30,2014,10,6,Manufacturing
+No obstacle,50,2019,7,6,Manufacturing
+Moderate obstacle,0,1998,26,5,Manufacturing
+Moderate obstacle,100,1970,35,5,Manufacturing
+No obstacle,100,1995,30,5,Manufacturing
+No obstacle,100,2004,10,5,Manufacturing
+No obstacle,0,2019,6,10,Other services
+No obstacle,50,2017,18,12,Manufacturing
+Major obstacle,100,2015,10,8,Manufacturing
+Moderate obstacle,100,2010,15,9,Manufacturing
+Moderate obstacle,100,2015,11,5,Manufacturing
+Minor obstacle,100,1901,40,6,Manufacturing
+Minor obstacle,0,2015,15,7,Manufacturing
+No obstacle,0,2004,20,6,Manufacturing
+Minor obstacle,0,2000,20,8,Manufacturing
+No obstacle,100,2020,4,6,Retail services
+Moderate obstacle,0,2004,20,7,Manufacturing
+Minor obstacle,30,2015,8,12,Manufacturing
+Major obstacle,0,1962,40,9,Manufacturing
+No obstacle,70,2013,32,7,Manufacturing
+Minor obstacle,100,2005,21,6,Manufacturing
+Moderate obstacle,100,1997,1,6,Other services
+Minor obstacle,100,2019,5,6,Other services
+Minor obstacle,100,2018,,9,Other services
+No obstacle,100,2012,,7,Other services
+Minor obstacle,0,2002,30,7,Other services
+No obstacle,0,2021,14,9,Other services
+Moderate obstacle,0,2012,14,11,Other services
+No obstacle,100,2021,10,7,Other services
+Minor obstacle,100,2003,20,8,Other services
+No obstacle,100,2012,12,10,Other services
+No obstacle,0,2011,10,8,Manufacturing
+Moderate obstacle,100,2006,18,6,Manufacturing
+No obstacle,0,2016,8,5,Manufacturing
+Minor obstacle,0,2007,17,5,Manufacturing
+Moderate obstacle,100,2013,11,6,Other services
+No obstacle,0,2019,3,7,Other services
+No obstacle,45,2015,10,6,Other services
+Major obstacle,0,1999,25,8,Other services
+Minor obstacle,0,2009,13,9,Retail services
+Major obstacle,100,2021,7,7,Other services
+No obstacle,5,2016,47,12,Other services
+No obstacle,30,2011,13,32,Other services
+No obstacle,40,2001,5,30,Other services
+Moderate obstacle,90,2017,7,17,Other services
+No obstacle,0,2000,,5,Other services
+Minor obstacle,0,2014,10,15,Other services
+Minor obstacle,0,2017,7,5,Other services
+No obstacle,0,2010,25,15,Retail services
+Moderate obstacle,0,2019,6,9,Other services
+Minor obstacle,100,1996,15,10,Other services
+Minor obstacle,25,2018,3,9,Other services
+No obstacle,0,2018,6,6,Other services
+No obstacle,100,2007,19,10,Other services
+No obstacle,100,1999,25,9,Other services
+No obstacle,100,2007,17,5,Other services
+Minor obstacle,2,2015,8,20,Other services
+Moderate obstacle,0,2012,12,5,Other services
+Minor obstacle,100,2000,24,6,Other services
+No obstacle,0,2016,12,35,Other services
+No obstacle,0,2014,20,14,Other services
+Minor obstacle,0,2007,,44,Retail services
+No obstacle,0,2016,5,7,Retail services
+No obstacle,0,1947,60,12,Retail services
+No obstacle,40,2011,11,5,Retail services
+Major obstacle,100,2019,5,5,Retail services
+Major obstacle,100,2010,1,8,Other services
+No obstacle,0,2016,7,8,Retail services
+No obstacle,80,2016,8,9,Retail services
+Minor obstacle,100,2017,7,10,Retail services
+No obstacle,0,2020,10,9,Retail services
+No obstacle,0,2014,,9,Retail services
+Minor obstacle,100,2006,18,13,Other services
+No obstacle,0,2011,19,11,Retail services
+No obstacle,0,2014,,5,Retail services
+Minor obstacle,0,2017,,26,Retail services
+No obstacle,20,2007,1,5,Retail services
+No obstacle,100,2020,6,8,Retail services
+Minor obstacle,0,2009,12,7,Retail services
+Major obstacle,0,2015,,5,Retail services
+Minor obstacle,100,2007,20,10,Retail services
+No obstacle,0,2012,15,13,Retail services
+No obstacle,0,2019,5,5,Retail services
+No obstacle,30,2012,12,10,Retail services
+Moderate obstacle,100,1980,35,25,Retail services
+No obstacle,100,2001,30,49,Manufacturing
+Major obstacle,100,1993,40,60,Manufacturing
+Moderate obstacle,100,1997,27,70,Manufacturing
+Minor obstacle,0,2010,14,38,Other services
+No obstacle,0,2009,20,70,Manufacturing
+No obstacle,12,1997,27,28,Manufacturing
+No obstacle,20,2013,15,140,Manufacturing
+Moderate obstacle,20,1989,34,40,Manufacturing
+No obstacle,25,2012,9,30,Manufacturing
+No obstacle,0,2013,15,9,Manufacturing
+Moderate obstacle,25,2013,,63,Manufacturing
+Minor obstacle,10,1988,10,34,Manufacturing
+No obstacle,30,1998,10,7,Manufacturing
+No obstacle,100,2010,14,60,Manufacturing
+No obstacle,3,1989,2,34,Manufacturing
+Minor obstacle,100,2018,6,32,Manufacturing
+Moderate obstacle,40,1972,15,56,Manufacturing
+Minor obstacle,0,2015,10,35,Other services
+Minor obstacle,60,2012,12,56,Other services
+No obstacle,100,2018,5,44,Other services
+No obstacle,30,1985,35,60,Other services
+No obstacle,0,2018,6,65,Other services
+Minor obstacle,100,2018,14,25,Other services
+No obstacle,100,2017,7,50,Other services
+Minor obstacle,0,2016,3,54,Other services
+No obstacle,100,2014,37,18,Other services
+Minor obstacle,0,2018,8,23,Other services
+No obstacle,100,1994,30,60,Other services
+Minor obstacle,0,2019,5,26,Other services
+Minor obstacle,0,2018,10,41,Other services
+Minor obstacle,30,1999,30,35,Other services
+No obstacle,100,2015,35,32,Other services
+No obstacle,0,2014,10,35,Other services
+No obstacle,80,1957,48,30,Manufacturing
+No obstacle,0,2014,,73,Manufacturing
+No obstacle,0,1999,30,40,Other services
+Minor obstacle,0,2016,20,20,Retail services
+Minor obstacle,2,2017,10,40,Other services
+Minor obstacle,0,2009,15,15,Manufacturing
+Moderate obstacle,40,2004,15,18,Other services
+Moderate obstacle,0,2013,14,51,Other services
+No obstacle,0,2010,14,20,Other services
+Moderate obstacle,100,2015,20,75,Other services
+Minor obstacle,0,2009,10,50,Other services
+No obstacle,100,1996,,30,Other services
+No obstacle,0,1990,10,250,Other services
+No obstacle,0,2014,24,22,Other services
+Moderate obstacle,0,2006,18,24,Other services
+No obstacle,50,2019,10,19,Retail services
+Minor obstacle,10,2019,10,65,Retail services
+No obstacle,0,2008,16,50,Other services
+No obstacle,10,1970,20,250,Manufacturing
+No obstacle,0,1993,31,60,Manufacturing
+Minor obstacle,0,1962,15,140,Manufacturing
+No obstacle,0,2013,20,185,Manufacturing
+Minor obstacle,40,1989,10,132,Manufacturing
+Minor obstacle,50,2017,7,30,Manufacturing
+No obstacle,0,1999,25,95,Manufacturing
+No obstacle,20,2000,40,232,Manufacturing
+No obstacle,0,2000,,163,Manufacturing
+No obstacle,50,1972,25,150,Manufacturing
+Minor obstacle,50,1995,40,78,Manufacturing
+No obstacle,0,1988,15,180,Other services
+No obstacle,0,2011,13,155,Other services
+Minor obstacle,0,1997,25,130,Manufacturing
+Moderate obstacle,20,2018,20,171,Manufacturing
+No obstacle,30,1964,20,97,Other services
+No obstacle,60,2005,20,100,Other services
+Moderate obstacle,0,2001,21,50,Other services
+No obstacle,20,2002,22,7,Manufacturing
+No obstacle,10,2006,10,18,Manufacturing
+No obstacle,0,2005,19,5,Manufacturing
+Minor obstacle,0,2019,4,10,Other services
+Minor obstacle,0,2006,18,16,Manufacturing
+No obstacle,0,1980,5,5,Other services
+Minor obstacle,0,2000,23,17,Manufacturing
+No obstacle,100,2010,14,20,Manufacturing
+Major obstacle,0,2004,35,6,Manufacturing
+No obstacle,0,2017,21,12,Manufacturing
+,25,2020,10,120,Manufacturing
+Minor obstacle,100,2018,6,5,Manufacturing
+Minor obstacle,100,2005,25,18,Manufacturing
+Minor obstacle,100,2018,14,6,Manufacturing
+Minor obstacle,100,1997,32,14,Manufacturing
+Major obstacle,0,2008,14,12,Manufacturing
+Minor obstacle,0,1995,15,14,Manufacturing
+Minor obstacle,60,1987,37,11,Manufacturing
+No obstacle,100,2018,9,8,Manufacturing
+No obstacle,0,2010,10,3,Manufacturing
+Minor obstacle,50,2016,7,12,Manufacturing
+No obstacle,0,2008,6,7,Other services
+Major obstacle,50,2019,7,5,Other services
+No obstacle,0,2010,16,8,Other services
+No obstacle,0,2011,3,7,Other services
+No obstacle,0,2018,9,11,Other services
+No obstacle,0,2017,9,5,Other services
+No obstacle,50,2018,25,30,Other services
+Minor obstacle,0,2019,10,5,Other services
+No obstacle,0,2012,1,10,Other services
+No obstacle,0,2008,30,50,Other services
+Minor obstacle,0,2018,7,20,Other services
+No obstacle,60,2019,10,8,Other services
+Minor obstacle,0,2018,5,19,Manufacturing
+No obstacle,0,2017,6,6,Manufacturing
+Minor obstacle,0,2010,14,6,Other services
+No obstacle,0,2018,3,22,Other services
+Minor obstacle,100,1987,20,8,Other services
+Moderate obstacle,40,2016,34,14,Other services
+Moderate obstacle,100,2008,18,5,Other services
+No obstacle,0,2005,10,18,Retail services
+No obstacle,10,2016,5,25,Other services
+No obstacle,100,2019,5,8,Other services
+Major obstacle,0,1983,2,16,Other services
+No obstacle,100,2010,24,16,Other services
+No obstacle,0,2015,15,50,Retail services
+Minor obstacle,50,2017,10,13,Other services
+Moderate obstacle,60,1989,33,10,Retail services
+Moderate obstacle,0,2018,10,15,Other services
+Moderate obstacle,100,2014,1,17,Other services
+No obstacle,0,2019,20,8,Retail services
+Moderate obstacle,0,1997,30,7,Other services
+Minor obstacle,50,2000,50,19,Retail services
+Minor obstacle,0,2002,4,7,Other services
+Minor obstacle,20,1990,8,16,Other services
+Moderate obstacle,0,1999,33,6,Other services
+Minor obstacle,25,2003,21,18,Other services
+No obstacle,13,2004,15,17,Other services
+Major obstacle,0,2017,15,10,Other services
+No obstacle,10,2021,3,11,Other services
+No obstacle,0,1982,42,5,Other services
+Major obstacle,0,2020,4,5,Other services
+Major obstacle,0,2017,1,6,Other services
+No obstacle,0,2007,15,13,Retail services
+Minor obstacle,100,2014,10,5,Retail services
+No obstacle,100,2014,10,7,Retail services
+No obstacle,0,2015,15,8,Retail services
+Major obstacle,100,2016,8,6,Other services
+No obstacle,100,2016,4,6,Retail services
+No obstacle,30,2019,25,26,Retail services
+No obstacle,100,2000,24,5,Other services
+No obstacle,0,2013,25,12,Retail services
+Minor obstacle,10,1934,14,9,Other services
+No obstacle,100,2007,15,10,Other services
+Moderate obstacle,20,1977,47,6,Retail services
+Minor obstacle,100,2020,5,5,Retail services
+No obstacle,0,2000,20,5,Retail services
+Minor obstacle,0,2021,3,9,Other services
+No obstacle,100,2019,1,6,Other services
+No obstacle,0,1974,50,12,Retail services
+Minor obstacle,100,2019,6,5,Retail services
+Minor obstacle,0,1970,44,5,Retail services
+No obstacle,25,2002,9,10,Retail services
+No obstacle,100,1999,25,8,Retail services
+No obstacle,100,1986,38,8,Retail services
+Minor obstacle,100,2019,5,5,Retail services
+No obstacle,0,2000,20,16,Manufacturing
+No obstacle,100,2015,9,7,Retail services
+No obstacle,0,2005,7,27,Manufacturing
+Minor obstacle,0,1998,14,98,Manufacturing
+No obstacle,0,2014,8,120,Manufacturing
+Major obstacle,1,2009,50,97,Other services
+Minor obstacle,0,2005,19,22,Manufacturing
+Minor obstacle,0,1997,26,50,Manufacturing
+Minor obstacle,0,2013,11,46,Manufacturing
+No obstacle,30,2017,7,56,Manufacturing
+No obstacle,0,2014,10,60,Manufacturing
+No obstacle,0,1990,8,65,Manufacturing
+Minor obstacle,0,2008,16,45,Manufacturing
+Moderate obstacle,0,1997,30,18,Manufacturing
+No obstacle,0,1993,30,23,Manufacturing
+No obstacle,40,1967,20,53,Manufacturing
+Minor obstacle,50,1984,40,11,Manufacturing
+No obstacle,30,2015,20,22,Manufacturing
+Minor obstacle,100,1994,30,38,Manufacturing
+Minor obstacle,0,1986,40,22,Manufacturing
+No obstacle,0,1973,58,31,Manufacturing
+Major obstacle,50,2016,9,30,Other services
+Minor obstacle,10,2005,20,200,Other services
+,60,1986,38,75,Other services
+Moderate obstacle,1,2005,4,85,Other services
+Moderate obstacle,40,2016,4,43,Other services
+Major obstacle,20,2018,2,32,Other services
+No obstacle,2,2009,5,35,Other services
+Major obstacle,0,2014,15,88,Other services
+No obstacle,50,1998,10,80,Other services
+Major obstacle,2,2015,8,98,Other services
+No obstacle,100,1973,5,38,Other services
+Moderate obstacle,100,2018,5,35,Other services
+No obstacle,40,2016,7,27,Other services
+No obstacle,0,2016,7,25,Other services
+No obstacle,20,2007,17,140,Other services
+Minor obstacle,50,2015,9,72,Other services
+No obstacle,100,2006,18,24,Other services
+Moderate obstacle,12,2001,20,46,Manufacturing
+No obstacle,100,2008,14,31,Manufacturing
+No obstacle,100,2011,13,21,Other services
+Minor obstacle,0,2020,8,23,Other services
+Minor obstacle,0,2000,30,25,Other services
+No obstacle,0,2014,10,10,Other services
+No obstacle,0,2002,22,40,Other services
+Major obstacle,0,1996,34,15,Other services
+No obstacle,0,1999,24,18,Other services
+Major obstacle,0,2016,30,8,Other services
+No obstacle,100,2020,13,28,Other services
+Major obstacle,0,1969,40,38,Other services
+No obstacle,0,1998,25,25,Other services
+Minor obstacle,50,1996,28,33,Other services
+No obstacle,10,2020,10,32,Other services
+No obstacle,40,2012,5,24,Other services
+Major obstacle,0,1984,45,17,Other services
+No obstacle,0,1980,45,35,Other services
+Minor obstacle,50,2005,1,180,Other services
+Major obstacle,100,2009,14,8,Retail services
+No obstacle,40,2001,23,25,Other services
+Minor obstacle,1,1995,28,29,Retail services
+Minor obstacle,30,1976,35,150,Other services
+No obstacle,100,2008,15,90,Manufacturing
+No obstacle,15,1994,25,50,Manufacturing
+Minor obstacle,50,1978,46,200,Manufacturing
+Minor obstacle,60,1999,19,77,Manufacturing
+Minor obstacle,50,2009,15,120,Other services
+Minor obstacle,0,1994,20,170,Manufacturing
+Minor obstacle,0,1989,30,106,Manufacturing
+Major obstacle,0,1990,30,55,Other services
+No obstacle,40,1989,34,188,Retail services
+Moderate obstacle,70,1981,43,180,Other services
+Minor obstacle,20,2016,10,170,Other services
+Moderate obstacle,40,2004,20,78,Retail services
+No obstacle,40,2015,15,120,Retail services
+No obstacle,50,2016,20,55,Retail services
+Major obstacle,100,2013,10,6,Manufacturing
+No obstacle,0,1996,28,9,Manufacturing
+Minor obstacle,100,2015,9,8,Manufacturing
+No obstacle,0,2009,30,11,Manufacturing
+No obstacle,100,1969,32,5,Manufacturing
+No obstacle,0,2012,6,7,Manufacturing
+No obstacle,100,2007,15,6,Manufacturing
+Moderate obstacle,0,2014,14,70,Manufacturing
+No obstacle,0,2012,10,8,Manufacturing
+No obstacle,0,2008,30,12,Manufacturing
+Moderate obstacle,0,2006,18,15,Manufacturing
+No obstacle,0,2015,11,8,Manufacturing
+No obstacle,100,2010,24,12,Manufacturing
+No obstacle,0,2022,2,9,Manufacturing
+No obstacle,0,2011,13,6,Manufacturing
+Major obstacle,0,2010,14,8,Manufacturing
+Minor obstacle,0,2016,20,13,Manufacturing
+Moderate obstacle,25,2020,7,20,Manufacturing
+Major obstacle,100,2014,10,6,Manufacturing
+No obstacle,100,2021,10,5,Manufacturing
+No obstacle,100,2015,9,7,Manufacturing
+No obstacle,0,1992,32,7,Retail services
+No obstacle,0,1980,6,14,Manufacturing
+Minor obstacle,0,2017,7,5,Manufacturing
+No obstacle,4,1983,3,5,Manufacturing
+No obstacle,0,2015,8,17,Manufacturing
+Major obstacle,60,2017,7,6,Manufacturing
+Minor obstacle,25,2016,7,7,Manufacturing
+No obstacle,100,1998,20,80,Manufacturing
+Minor obstacle,100,2020,4,7,Manufacturing
+No obstacle,100,2016,8,5,Other services
+Minor obstacle,0,2010,24,5,Other services
+No obstacle,0,2018,5,5,Manufacturing
+Major obstacle,0,2005,9,12,Manufacturing
+No obstacle,100,2017,7,5,Manufacturing
+Minor obstacle,0,2011,13,5,Other services
+No obstacle,0,2005,19,5,Other services
+No obstacle,0,2010,14,5,Other services
+No obstacle,0,2016,30,6,Retail services
+Moderate obstacle,0,2014,11,27,Other services
+No obstacle,100,2013,9,5,Other services
+No obstacle,100,1990,34,9,Manufacturing
+No obstacle,0,2019,20,5,Other services
+Minor obstacle,100,2016,40,11,Other services
+No obstacle,30,2021,31,21,Other services
+Minor obstacle,100,2014,6,11,Other services
+No obstacle,0,2014,15,18,Other services
+No obstacle,50,2017,7,20,Other services
+No obstacle,100,2013,11,17,Other services
+No obstacle,100,2012,12,9,Retail services
+Moderate obstacle,50,2016,35,10,Retail services
+No obstacle,0,2000,23,9,Retail services
+Minor obstacle,100,2004,2,7,Other services
+Minor obstacle,100,2015,7,5,Other services
+Minor obstacle,100,2018,6,7,Other services
+Minor obstacle,0,1990,34,30,Other services
+No obstacle,0,1960,26,5,Other services
+No obstacle,100,2016,5,5,Manufacturing
+Moderate obstacle,0,2004,20,10,Other services
+Moderate obstacle,0,2017,7,30,Other services
+No obstacle,10,1993,35,13,Retail services
+No obstacle,0,2004,29,10,Other services
+Minor obstacle,0,2011,13,5,Other services
+No obstacle,2,2013,11,10,Retail services
+No obstacle,0,2006,10,10,Retail services
+No obstacle,0,2004,5,10,Other services
+No obstacle,100,2019,5,5,Other services
+Moderate obstacle,0,2017,11,10,Retail services
+No obstacle,0,1999,10,12,Manufacturing
+No obstacle,10,2003,21,6,Retail services
+Minor obstacle,0,1989,35,12,Other services
+No obstacle,50,2019,5,5,Other services
+Minor obstacle,0,2015,6,5,Other services
+No obstacle,43,1978,30,5,Other services
+No obstacle,0,2006,18,6,Other services
+No obstacle,0,2016,8,5,Other services
+No obstacle,100,2018,6,9,Other services
+Minor obstacle,0,2017,7,6,Other services
+No obstacle,0,2004,20,11,Other services
+No obstacle,0,2013,15,5,Other services
+Moderate obstacle,30,2013,10,18,Other services
+No obstacle,100,1990,9,6,Retail services
+No obstacle,100,2018,10,5,Retail services
+Minor obstacle,0,2016,10,6,Other services
+No obstacle,0,2000,8,7,Retail services
+No obstacle,100,1984,6,17,Retail services
+Moderate obstacle,0,2018,8,5,Retail services
+No obstacle,0,2019,4,5,Retail services
+No obstacle,100,2015,9,5,Retail services
+No obstacle,0,2019,10,15,Retail services
+No obstacle,100,1968,56,5,Retail services
+No obstacle,2,2006,17,8,Manufacturing
+Minor obstacle,0,2013,15,5,Retail services
+No obstacle,100,2008,20,8,Retail services
+No obstacle,100,2004,20,5,Other services
+No obstacle,30,2010,20,12,Retail services
+Moderate obstacle,100,1997,27,5,Retail services
+No obstacle,30,2014,10,11,Other services
+No obstacle,20,1984,19,23,Retail services
+No obstacle,100,1994,30,5,Manufacturing
+No obstacle,0,1994,14,17,Retail services
+No obstacle,50,1998,26,6,Retail services
+Major obstacle,100,1998,1,5,Retail services
+No obstacle,0,1995,29,10,Other services
+No obstacle,0,2000,24,5,Retail services
+No obstacle,0,2013,13,7,Retail services
+Major obstacle,100,2020,5,6,Retail services
+No obstacle,100,2015,9,6,Retail services
+Minor obstacle,0,2017,15,5,Retail services
+No obstacle,0,,,14,Retail services
+Moderate obstacle,0,2010,10,10,Retail services
+No obstacle,0,1996,10,45,Retail services
+No obstacle,0,2021,3,5,Retail services
+Moderate obstacle,0,2009,40,10,Retail services
+No obstacle,0,2019,12,12,Retail services
+Moderate obstacle,0,2010,14,20,Retail services
+No obstacle,0,2015,9,22,Manufacturing
+Moderate obstacle,10,2004,20,25,Manufacturing
+Major obstacle,0,2005,40,40,Manufacturing
+Minor obstacle,0,2001,23,30,Other services
+No obstacle,0,1990,5,20,Manufacturing
+No obstacle,0,2002,22,100,Manufacturing
+No obstacle,0,1993,28,12,Other services
+No obstacle,0,2015,8,29,Manufacturing
+No obstacle,50,2006,20,20,Manufacturing
+No obstacle,0,1990,8,85,Other services
+Minor obstacle,50,2009,30,20,Manufacturing
+Minor obstacle,0,2000,30,33,Manufacturing
+Minor obstacle,0,1996,68,130,Manufacturing
+Minor obstacle,0,1976,40,23,Manufacturing
+Minor obstacle,50,1997,25,85,Manufacturing
+No obstacle,0,2010,14,20,Manufacturing
+Minor obstacle,40,1990,40,28,Manufacturing
+No obstacle,0,2010,15,11,Manufacturing
+Minor obstacle,100,2008,1,23,Manufacturing
+Major obstacle,100,2020,30,37,Manufacturing
+Minor obstacle,0,2021,18,180,Manufacturing
+No obstacle,100,1983,5,50,Manufacturing
+Minor obstacle,0,2012,12,100,Manufacturing
+No obstacle,0,2013,11,23,Other services
+Moderate obstacle,30,1980,15,15,Manufacturing
+Minor obstacle,30,1995,30,33,Manufacturing
+No obstacle,0,2010,14,50,Manufacturing
+No obstacle,10,2010,25,250,Manufacturing
+Minor obstacle,0,2005,19,60,Other services
+Moderate obstacle,20,2012,30,45,Other services
+No obstacle,100,2015,9,18,Other services
+Moderate obstacle,70,1988,20,50,Other services
+Major obstacle,30,1982,42,56,Other services
+Minor obstacle,0,2011,2,32,Other services
+No obstacle,100,1997,26,40,Other services
+Minor obstacle,100,2016,8,6,Other services
+Minor obstacle,10,1995,29,150,Other services
+No obstacle,40,2009,35,45,Other services
+No obstacle,0,2014,9,35,Manufacturing
+Moderate obstacle,0,2010,40,47,Other services
+No obstacle,0,2019,5,28,Other services
+Minor obstacle,0,2010,14,90,Other services
+Minor obstacle,50,1977,15,35,Other services
+No obstacle,0,2012,25,15,Other services
+Moderate obstacle,0,2010,23,33,Other services
+No obstacle,50,2014,3,55,Other services
+Minor obstacle,30,1988,50,17,Other services
+Minor obstacle,70,2021,10,7,Retail services
+Minor obstacle,10,1977,40,138,Retail services
+No obstacle,0,2004,20,95,Manufacturing
+Minor obstacle,0,2014,20,70,Retail services
+No obstacle,0,2019,20,134,Manufacturing
+Minor obstacle,0,2016,8,100,Manufacturing
+No obstacle,0,2020,4,171,Manufacturing
+No obstacle,0,1991,8,250,Manufacturing
+Minor obstacle,0,1960,17,170,Manufacturing
+No obstacle,0,2004,43,225,Manufacturing
+No obstacle,0,1991,15,160,Manufacturing
+Minor obstacle,0,2009,10,119,Manufacturing
+No obstacle,0,2019,5,115,Other services
+No obstacle,0,1919,50,150,Other services
+No obstacle,0,2008,25,200,Retail services
+No obstacle,0,2021,3,200,Retail services
