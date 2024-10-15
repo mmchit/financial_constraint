@@ -141,7 +141,7 @@ Minor obstacle,0,2012,30,7,Manufacturing
 No obstacle,100,2015,9,5,Manufacturing
 No obstacle,100,2009,15,5,Manufacturing
 No obstacle,100,2012,13,7,Other services
-,60,1996,35,5,Other services
+NA,60,1996,35,5,Other services
 No obstacle,100,2014,10,11,Other services
 Minor obstacle,100,2015,8,5,Other services
 No obstacle,0,2009,15,9,Other services
@@ -592,7 +592,7 @@ Minor obstacle,0,2000,23,17,Manufacturing
 No obstacle,100,2010,14,20,Manufacturing
 Major obstacle,0,2004,35,6,Manufacturing
 No obstacle,0,2017,21,12,Manufacturing
-,25,2020,10,120,Manufacturing
+NA,25,2020,10,120,Manufacturing
 Minor obstacle,100,2018,6,5,Manufacturing
 Minor obstacle,100,2005,25,18,Manufacturing
 Minor obstacle,100,2018,14,6,Manufacturing
@@ -691,7 +691,7 @@ Minor obstacle,0,1986,40,22,Manufacturing
 No obstacle,0,1973,58,31,Manufacturing
 Major obstacle,50,2016,9,30,Other services
 Minor obstacle,10,2005,20,200,Other services
-,60,1986,38,75,Other services
+NA,60,1986,38,75,Other services
 Moderate obstacle,1,2005,4,85,Other services
 Moderate obstacle,40,2016,4,43,Other services
 Major obstacle,20,2018,2,32,Other services
